@@ -1,0 +1,14 @@
+{
+  "id": "GYM_MIRROR",
+  "name": "Gym Mirror",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "GYM_MIRROR.png",
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2
+}

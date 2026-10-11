@@ -1,0 +1,14 @@
+{
+  "id": "TROPHY_SHELF",
+  "name": "Trophy Shelf",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "TROPHY_SHELF.png",
+  "width": 32,
+  "height": 16,
+  "footprintW": 2,
+  "footprintH": 1
+}

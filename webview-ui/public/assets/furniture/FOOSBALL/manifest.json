@@ -1,0 +1,14 @@
+{
+  "id": "FOOSBALL",
+  "name": "Foosball Table",
+  "category": "games",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "FOOSBALL.png",
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2
+}

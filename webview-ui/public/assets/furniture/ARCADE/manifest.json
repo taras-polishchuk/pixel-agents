@@ -1,0 +1,42 @@
+{
+  "id": "ARCADE",
+  "name": "Arcade Cabinet",
+  "category": "games",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "ARCADE",
+      "file": "ARCADE_1.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "ARCADE_2",
+      "file": "ARCADE_2.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "ARCADE_3",
+      "file": "ARCADE_3.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 2
+    }
+  ]
+}

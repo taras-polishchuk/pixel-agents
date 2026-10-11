@@ -1,0 +1,14 @@
+{
+  "id": "KITCHEN_COUNTER",
+  "name": "Kitchen Counter",
+  "category": "kitchen",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "asset",
+  "file": "KITCHEN_COUNTER.png",
+  "width": 32,
+  "height": 32,
+  "footprintW": 2,
+  "footprintH": 2
+}

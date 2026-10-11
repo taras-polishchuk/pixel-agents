@@ -1,0 +1,52 @@
+{
+  "id": "EXERCISE_BIKE",
+  "name": "Exercise Bike",
+  "category": "gym",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "EXERCISE_BIKE",
+      "file": "EXERCISE_BIKE_1.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "EXERCISE_BIKE_2",
+      "file": "EXERCISE_BIKE_2.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "EXERCISE_BIKE_3",
+      "file": "EXERCISE_BIKE_3.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 2
+    },
+    {
+      "type": "asset",
+      "id": "EXERCISE_BIKE_4",
+      "file": "EXERCISE_BIKE_4.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 3
+    }
+  ]
+}

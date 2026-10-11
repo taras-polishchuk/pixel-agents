@@ -1,0 +1,52 @@
+{
+  "id": "NEON_SIGN",
+  "name": "Neon Sign",
+  "category": "wall",
+  "canPlaceOnWalls": true,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "NEON_SIGN",
+      "file": "NEON_SIGN_1.png",
+      "width": 32,
+      "height": 16,
+      "footprintW": 2,
+      "footprintH": 1,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "NEON_SIGN_2",
+      "file": "NEON_SIGN_2.png",
+      "width": 32,
+      "height": 16,
+      "footprintW": 2,
+      "footprintH": 1,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "NEON_SIGN_3",
+      "file": "NEON_SIGN_3.png",
+      "width": 32,
+      "height": 16,
+      "footprintW": 2,
+      "footprintH": 1,
+      "frame": 2
+    },
+    {
+      "type": "asset",
+      "id": "NEON_SIGN_4",
+      "file": "NEON_SIGN_4.png",
+      "width": 32,
+      "height": 16,
+      "footprintW": 2,
+      "footprintH": 1,
+      "frame": 3
+    }
+  ]
+}

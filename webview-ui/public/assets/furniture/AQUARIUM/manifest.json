@@ -1,0 +1,72 @@
+{
+  "id": "AQUARIUM",
+  "name": "Aquarium",
+  "category": "decor",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "AQUARIUM",
+      "file": "AQUARIUM_1.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "AQUARIUM_2",
+      "file": "AQUARIUM_2.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "AQUARIUM_3",
+      "file": "AQUARIUM_3.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 2
+    },
+    {
+      "type": "asset",
+      "id": "AQUARIUM_4",
+      "file": "AQUARIUM_4.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 3
+    },
+    {
+      "type": "asset",
+      "id": "AQUARIUM_5",
+      "file": "AQUARIUM_5.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 4
+    },
+    {
+      "type": "asset",
+      "id": "AQUARIUM_6",
+      "file": "AQUARIUM_6.png",
+      "width": 32,
+      "height": 32,
+      "footprintW": 2,
+      "footprintH": 2,
+      "frame": 5
+    }
+  ]
+}

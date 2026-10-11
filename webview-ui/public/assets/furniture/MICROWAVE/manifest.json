@@ -1,0 +1,14 @@
+{
+  "id": "MICROWAVE",
+  "name": "Microwave",
+  "category": "kitchen",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": true,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "MICROWAVE.png",
+  "width": 16,
+  "height": 16,
+  "footprintW": 1,
+  "footprintH": 1
+}

@@ -1,0 +1,72 @@
+{
+  "id": "PUNCHING_BAG",
+  "name": "Punching Bag",
+  "category": "gym",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 2,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG",
+      "file": "PUNCHING_BAG_1.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG_2",
+      "file": "PUNCHING_BAG_2.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG_3",
+      "file": "PUNCHING_BAG_3.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 2
+    },
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG_4",
+      "file": "PUNCHING_BAG_4.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 3
+    },
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG_5",
+      "file": "PUNCHING_BAG_5.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 4
+    },
+    {
+      "type": "asset",
+      "id": "PUNCHING_BAG_6",
+      "file": "PUNCHING_BAG_6.png",
+      "width": 16,
+      "height": 48,
+      "footprintW": 1,
+      "footprintH": 3,
+      "frame": 5
+    }
+  ]
+}

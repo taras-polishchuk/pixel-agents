@@ -1,0 +1,14 @@
+{
+  "id": "POOL_TABLE",
+  "name": "Pool Table",
+  "category": "games",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "POOL_TABLE.png",
+  "width": 48,
+  "height": 32,
+  "footprintW": 3,
+  "footprintH": 2
+}

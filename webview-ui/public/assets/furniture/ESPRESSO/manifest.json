@@ -1,0 +1,32 @@
+{
+  "id": "ESPRESSO",
+  "name": "Espresso Machine",
+  "category": "kitchen",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": true,
+  "backgroundTiles": 0,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "ESPRESSO",
+      "file": "ESPRESSO_1.png",
+      "width": 16,
+      "height": 16,
+      "footprintW": 1,
+      "footprintH": 1,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "ESPRESSO_2",
+      "file": "ESPRESSO_2.png",
+      "width": 16,
+      "height": 16,
+      "footprintW": 1,
+      "footprintH": 1,
+      "frame": 1
+    }
+  ]
+}

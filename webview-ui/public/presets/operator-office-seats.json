@@ -1,0 +1,12 @@
+{
+ "profile:orchestrator": "oo-cushioned_chair_front-4-3",
+ "profile:default": "oo-cushioned_chair_front-9-3",
+ "profile:research": "oo-cushioned_chair_front-40-3",
+ "profile:developer": "oo-cushioned_chair_front-4-13",
+ "profile:qa": "oo-cushioned_chair_front-18-13",
+ "profile:content": "oo-cushioned_chair_front-39-13",
+ "profile:email": "oo-cushioned_chair_front-4-23",
+ "profile:career": "oo-cushioned_chair_front-9-23",
+ "profile:ops": "oo-cushioned_chair_front-19-25",
+ "profile:finance": "oo-cushioned_chair_front-39-23"
+}

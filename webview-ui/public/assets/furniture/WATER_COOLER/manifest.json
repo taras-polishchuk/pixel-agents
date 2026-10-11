@@ -1,0 +1,42 @@
+{
+  "id": "WATER_COOLER",
+  "name": "Water Cooler",
+  "category": "misc",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "WATER_COOLER",
+      "file": "WATER_COOLER_1.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "WATER_COOLER_2",
+      "file": "WATER_COOLER_2.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "WATER_COOLER_3",
+      "file": "WATER_COOLER_3.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 2
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "SERVER_RACK",
+  "name": "Server Rack",
+  "category": "electronics",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "SERVER_RACK",
+      "file": "SERVER_RACK_1.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "SERVER_RACK_2",
+      "file": "SERVER_RACK_2.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "SERVER_RACK_3",
+      "file": "SERVER_RACK_3.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 2
+    },
+    {
+      "type": "asset",
+      "id": "SERVER_RACK_4",
+      "file": "SERVER_RACK_4.png",
+      "width": 16,
+      "height": 32,
+      "footprintW": 1,
+      "footprintH": 2,
+      "frame": 3
+    }
+  ]
+}

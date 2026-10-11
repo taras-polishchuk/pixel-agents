@@ -1,0 +1,14 @@
+{
+  "id": "BEANBAG_ORANGE",
+  "name": "Beanbag (orange)",
+  "category": "decor",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 0,
+  "type": "asset",
+  "file": "BEANBAG_ORANGE.png",
+  "width": 16,
+  "height": 16,
+  "footprintW": 1,
+  "footprintH": 1
+}

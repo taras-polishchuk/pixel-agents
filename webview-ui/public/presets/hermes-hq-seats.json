@@ -1,0 +1,20 @@
+{
+ "top0": "hq-cushioned_chair_front-4-14",
+ "bot0": "hq-cushioned_chair_back-4-18",
+ "top1": "hq-cushioned_chair_front-7-14",
+ "bot1": "hq-cushioned_chair_back-7-18",
+ "top2": "hq-cushioned_chair_front-10-14",
+ "bot2": "hq-cushioned_chair_back-10-18",
+ "top3": "hq-cushioned_chair_front-15-14",
+ "bot3": "hq-cushioned_chair_back-15-18",
+ "top4": "hq-cushioned_chair_front-18-14",
+ "bot4": "hq-cushioned_chair_back-18-18",
+ "top5": "hq-cushioned_chair_front-21-14",
+ "bot5": "hq-cushioned_chair_back-21-18",
+ "top6": "hq-cushioned_chair_front-26-14",
+ "bot6": "hq-cushioned_chair_back-26-18",
+ "top7": "hq-cushioned_chair_front-29-14",
+ "bot7": "hq-cushioned_chair_back-29-18",
+ "command": "hq-cushioned_chair_front-40-15",
+ "library": "hq-cushioned_chair_back-40-28"
+}

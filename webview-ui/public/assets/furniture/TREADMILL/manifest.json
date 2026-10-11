@@ -1,0 +1,42 @@
+{
+  "id": "TREADMILL",
+  "name": "Treadmill",
+  "category": "gym",
+  "canPlaceOnWalls": false,
+  "canPlaceOnSurfaces": false,
+  "backgroundTiles": 1,
+  "type": "group",
+  "groupType": "animation",
+  "members": [
+    {
+      "type": "asset",
+      "id": "TREADMILL",
+      "file": "TREADMILL_1.png",
+      "width": 32,
+      "height": 48,
+      "footprintW": 2,
+      "footprintH": 3,
+      "frame": 0
+    },
+    {
+      "type": "asset",
+      "id": "TREADMILL_2",
+      "file": "TREADMILL_2.png",
+      "width": 32,
+      "height": 48,
+      "footprintW": 2,
+      "footprintH": 3,
+      "frame": 1
+    },
+    {
+      "type": "asset",
+      "id": "TREADMILL_3",
+      "file": "TREADMILL_3.png",
+      "width": 32,
+      "height": 48,
+      "footprintW": 2,
+      "footprintH": 3,
+      "frame": 2
+    }
+  ]
+}
